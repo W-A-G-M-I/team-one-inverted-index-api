@@ -1,1 +1,0 @@
-# team-one-inverted-index-api
